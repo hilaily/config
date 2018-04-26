@@ -1,0 +1,11 @@
+prometheus_client
+autopep8
+tornado==4.2.1
+redis==2.10.5
+python-memcached==1.57
+thrift==0.9.3
+pycrypto==2.6.1
+mysql-connector-python
+kazoo==2.4.0
+python-dateutil
+gevent
