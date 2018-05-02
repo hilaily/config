@@ -8,4 +8,5 @@ pycrypto==2.6.1
 mysql-connector-python
 kazoo==2.4.0
 python-dateutil
+requests
 gevent
